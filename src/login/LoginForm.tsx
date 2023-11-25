@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import InputField from "./components/InputField";
 import ImageSection from "./components/ImageSection";
